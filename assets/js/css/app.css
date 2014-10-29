@@ -1,0 +1,15 @@
+body:before { 
+                            white-space: pre; 
+                            font-family: monospace; 
+                            content: 'Sass \\Applications\\MAMP\\htdocs\\Bri-Den Co Inc\\assets\\scss\\app.scss:397: unbound variable $darkgray \A '; } 
+                            
+                            body * { 
+                            display: none; 
+                            } body:before { 
+                            white-space: pre; 
+                            font-family: monospace; 
+                            content: 'Sass \\Applications\\MAMP\\htdocs\\Bri-Den Co Inc\\assets\\scss\\app.scss:5: file to import not found or unreadable: \"foundation\\settings\" \A Current dir: \\Applications\\MAMP\\htdocs\\Bri-Den Co Inc\\assets\\scss\\ \A '; } 
+                            
+                            body * { 
+                            display: none; 
+                            } 
